@@ -1,4 +1,3 @@
-pip install langchain sqlite3 pandas
 import sqlite3
 
 # Connect to the SQLite database (or create it if it doesn't exist)
